@@ -84,6 +84,7 @@ You can also leave an issue here [GitHub issues](https://github.com/dimanikulin/
 - [As a software tester you can download the installation packages](https://github.com/dimanikulin/fva/releases) that are published for Linux (x86-64), Mac and Windows (latest versions) to try it.
 
 &nbsp;&nbsp;&nbsp;So there are many items to help the author in.
+
   
 ## Stay in touch
 * [Twitter](https://twitter.com/DmytroNikulin)
